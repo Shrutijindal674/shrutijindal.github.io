@@ -1,7 +1,7 @@
 +++
 title = "About"
-author = "Gabor Parti"
-date = "2022-09-01"
+author = "Shruti Jindal"
+date = "2023-08-18"
 +++
 
 <div class="avatar"><img src="/images/avatar.jpg" alt="avatar"></div>
