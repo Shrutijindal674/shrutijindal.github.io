@@ -1,7 +1,7 @@
 +++
 title = "Elérhetőség"
-author = "Gabor Parti"
-date = "2022-09-01"
+author = "Shruti Jindal"
+date = "2023-08-18"
 +++
 
-Ímél: partigaborhk@gmail.com
+Email: Shrutijindal00@gmail.com
