@@ -6,7 +6,7 @@ date = "2023-08-18"
 
 <div class="avatar"><img src="/images/avatar.jpg" alt="avatar"></div>
 
-Welcome! I am Shruti Jindal, a Research Fellow at the [School of Public Health at the University of Sydney](https://sydney.edu.au/medicine-health/schools/school-of-public-health.html), Australia. My academic roots are firmly planted at [Jamia Millia Islamia University](https://www.jmi.ac.in/), where I specialized in Organizational Behavior and ranked in the top 1% of my cohort.
+Welcome! I am Shruti Jindal, a Research Fellow at the [School of Public Health at the University of Sydney](https://sydney.edu.au/medicine-health/schools/school-of-public-health.html), Australia. My academic roots are firmly planted in Applied Psychology at [Jamia Millia Islamia University](https://www.jmi.ac.in/), where I specialized in Organizational Behavior and ranked in the top 1% of my cohort.
 
 > ##### **[Download CV <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://drive.google.com/file/d/1eZSMaQDSRKjrkxm_peFUAfb2NOc326he/view?usp=sharing "Open/download Curriculum Vitae")**  (539 KB)
 
