@@ -6,15 +6,20 @@ date = "2023-08-18"
 
 <div class="avatar"><img src="/images/avatar.jpg" alt="avatar"></div>
 
-Welcome! I am a fresh Ph.D. graduate at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), and I am using digital technologies in philological and humanities research. I am interested in linguistic and cultural exchange along historic trade routes in Asia, especially around the Indian Ocean world and the Maritime Silk Road. My focus is on how to collect, store, process, analyze, and present humanities data in new and exciting ways. I am fascinated by etymology, pre-modern travel and trade, and network theory.
+Welcome! I am Shruti Jindal, a Research Fellow at the [School of Public Health at the University of Sydney](https://sydney.edu.au/medicine-health/schools/school-of-public-health.html), Australia. My academic roots are firmly planted at [Jamia Millia Islamia University](https://www.jmi.ac.in/), where I specialized in Organizational Behavior and ranked in the top 1% of my cohort.
 
-> ##### **[Download CV <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](/files/cv.pdf "Open/download Curriculum Vitae")**  (56 KB)
+> ##### **[Download CV <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://drive.google.com/file/d/1eZSMaQDSRKjrkxm_peFUAfb2NOc326he/view?usp=sharing "Open/download Curriculum Vitae")**  (539 KB)
 
-I have received training in traditional philology from various departments at the [Eötvös Loránd University (ELTE)](https://www.btk.elte.hu/en/) in Budapest, including Semitic and Arabic studies, Korean studies, Islamic studies, and Indology. In Hong Kong, I have studied corpus linguistics and computational linguistics at [PolyU](https://www.polyu.edu.hk/cbs/study/research-postgraduate-programme/phd-or-mphil-study), and I also learned about various techniques in natural language processing, machine learning, artificial intelligence, and dash of data science.
+My journey has been marked by significant collaborations, including an independent project at the [Bjork Learning and Forgetting Lab at UCLA](https://www.psych.ucla.edu/faculty/page/bjorkr), where I've been working with Professor Robert Bjork to revolutionize learning methods. Our research has increased word retrieval by 70%, a testament to innovation and determination.
 
-My PhD dissertation is titled *Mapping the Language of Spices: A Corpus-Based, Philological Study on the Words of the Spice Domain*, and it aims to be a linguistic account of the spice trade. It is about spices and spice names, and their diffusion around the globe, supervised by [Prof. Chu-Ren Huang](http://www.churenhuang.com/), and funded by the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). The dissertation is accompanied by an online database I am currently working on, the [Spice & Spice Terminology Database 1.0](https://partigabor.github.io/spice/).
+I've also had the privilege of working with esteemed institutions such as the [Tata Institute of Fundamental Research](http://www.tifr.res.in/), [Indian Institute of Management Kashipur](https://www.iimkashipur.ac.in/), and [University of California, Los Angeles](https://www.ucla.edu/). My research spans diverse topics, from ageism during COVID-19 to the factors affecting women's career aspirations after motherhood.
 
-> ##### **[Download PhD thesis <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](/files/partigabor-phd-thesis-final-20230303.pdf "Download thesis document.")** (16 MB)
+In the realm of education, I've served as a Visiting Faculty in Psychology, preparing students for entrance exams and contributing to media coverage on topics such as [anxiety](http://risingkashmir.com/mummymy-phone-is-not-a-cause-of-my-anxiety-88dbf459-a4cd-4c1a-ae6a-b70071d7e35b)) and [ageism](http://risingkashmir.com/eliminating-ageism-based-mental-health-concerns-among-older-workers-in-an-organizational-setting-6e7685b3-8d38-4b30-b8e8-974d16b44c37).
+
+My commitment to community development is reflected in my work with [Art of Living](https://www.artofliving.org/) and [Tihar Prisons](https://www.tihartiharprisons.nic.in/), where I've applied psychological principles to real-world challenges, from raising funds for holistic development to improving mental health among inmates. My professional journey is a blend of innovation, education, community service, and achievement. It's a reflection of my passion for understanding the human psyche and my dedication to contributing to the field of cognitive psychology and education.
+
+Write me as I continue to explore, innovate, and inspire in the ever-evolving world of cognitive psychology and education.
+
 
 ***
 
@@ -22,23 +27,21 @@ My PhD dissertation is titled *Mapping the Language of Spices: A Corpus-Based, P
 
 ### Degrees
 
-**2019-2023** &ensp; PhD in East Asian Linguistics, The Hong Kong Polytechnic University (PolyU) | Hong Kong
+**2020-2022** &ensp; MA in Applied Psychology, Jamia Millia Islamia University (JMI) | New Delhi | IN
 
-**2014–2017** &ensp; MA in Islamic Studies, Eötvös Loránd University (ELTE) | Budapest
+**2016–2019** &ensp; BA (Hons.) in Psychology, Jamia Millia Islamia University (JMI) | New Delhi | IN
 
-**2010–2014** &ensp; BA in Korean Studies, Eötvös Loránd University (ELTE) | Budapest
-
-**2009–2014** &ensp; BA in Arabian Studies, Eötvös Loránd University (ELTE) | Budapest
 
 ### Scholarships
 
-**2017–2018** &ensp; Indonesian Language Course, Yogyakarta State University (UNY) | Yogyakarta
+**2017-2018** &ensp; Merit Scholar, Jamia Millia Islamia (JMI) | New Delhi, IN
 
->via the [Darmasiswa Scholarship Program](https://darmasiswa.kemdikbud.go.id/) from the Republic of Indonesia
+>via the [Dean Students Welfare, JMI]([https://darmasiswa.kemdikbud.go.id/](https://www.jmi.ac.in/upload/jamiadocs/JAMIA/scholarship.2009july1.pdf)) for ranking in the top 3% of my cohort.
 
-**2015** &emsp; &emsp; &emsp; Arabic language course, Institut Bourguiba des Langues Vivantes | Tunis
+**2016-2017** &ensp; Central Scholar, Jamia Millia Islamia (JMI) | New Delhi, IN
 
->via scholarship from the Republic of Tunisia
+>via the [Dean Students Welfare, JMI]([https://darmasiswa.kemdikbud.go.id/](https://www.jmi.ac.in/upload/jamiadocs/JAMIA/scholarship.2009july1.pdf)) for ranking in the top 5% of my cohort.
+
 
 <!-- {{< tabgroup >}}
   {{< tab name="Hello" >}}
