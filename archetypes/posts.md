@@ -1,6 +1,6 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
-author = "Gabor Parti"
+author = "Shtuti Jindal"
 date = "{{ .Date }}"
 weight = 11
 description = ""
