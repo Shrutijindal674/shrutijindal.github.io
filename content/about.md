@@ -8,7 +8,7 @@ date = "2023-08-18"
 
 Welcome! I am Shruti Jindal, a Research Fellow at the [School of Public Health at the University of Sydney](https://sydney.edu.au/medicine-health/schools/school-of-public-health.html), Australia. My academic roots are firmly planted in Applied Psychology at [Jamia Millia Islamia University](https://www.jmi.ac.in/), where I specialized in Organizational Behavior and ranked in the top 1% of my cohort.
 
-> ##### **[Download CV <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://drive.google.com/file/d/1eZSMaQDSRKjrkxm_peFUAfb2NOc326he/view?usp=sharing "Open/download Curriculum Vitae")**  (539 KB)
+> ##### **[Download CV <i class="fa fa-file-pdf-o" aria-hidden="true"></i>]("Open/download Curriculum Vitae")**  (539 KB)
 
 My journey has been marked by significant collaborations, including an independent project at the [Bjork Learning and Forgetting Lab at UCLA](https://www.psych.ucla.edu/faculty/page/bjorkr), where I've been working with Professor Robert Bjork to revolutionize learning methods. Our research has increased word retrieval by 70%, a testament to innovation and determination.
 
