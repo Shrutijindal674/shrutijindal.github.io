@@ -33,6 +33,4 @@ date = "2023-08-19"
 - *"Mummy, My Phone is Not a Cause of My Anxiety,"* [Rising Kashmir, October 8, 2022](http://risingkashmir.com/mummymy-phone-is-not-a-cause-of-my-anxiety-88dbf459-a4cd-4c1a-ae6a-b70071d7e35b).
 - *"Eliminating Ageism-Based Mental Health Concerns Among Older Workers in an Organizational Setting,"* [Rising Kashmir, October 15, 2022](http://risingkashmir.com/eliminating-ageism-based-mental-health-concerns-among-older-workers-in-an-organizational-setting-6e7685b3-8d38-4b30-b8e8-974d16b44c37).
 
-{{% center %}}
-<i class="fa fa-cog fa-spin fa-2x fa-fw"></i>
-{{% /center %}}
+
